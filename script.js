@@ -10,7 +10,7 @@ const person = {
 const team = [...players];
 
 // Copying the object
-const cap1 = { ...person };
+const cap1 = {...person};
 
 // Logging the results
 console.log("team:", team);
