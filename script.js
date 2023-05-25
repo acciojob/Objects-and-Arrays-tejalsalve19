@@ -8,9 +8,9 @@ const person = {
 // Write your code here, make sure the name of variables is exactly same as mentioned in the problem statement
 
 const team = [...players];
-const cap1 = { ...person };
-// console.log(team);
-// console.log(cap1);
+const team1 = { ...person };
+console.log("team:", team);
+console.log("cap1:", team1);
 
 
 window.players = players;
