@@ -8,7 +8,7 @@ const person = {
 // Write your code here, make sure the name of variables is exactly same as mentioned in the problem statement
 
 const team = [...players];
-const team1 = { ...person };
+const team1 = {...person };
 // console.log(team);
 // console.log(team1);
 
