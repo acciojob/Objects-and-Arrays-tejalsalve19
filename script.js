@@ -9,8 +9,8 @@ const person = {
 
 const team = [...players];
 const cap1 = { ...person };
-console.log("team:", team);
-console.log("cap1:", cap1);
+console.log(team);
+console.log(cap1);
 
 
 window.players = players;
