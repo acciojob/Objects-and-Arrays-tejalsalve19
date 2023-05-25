@@ -9,8 +9,8 @@ const person = {
 
 const team = [...players];
 const team1 = { ...person };
-console.log(team);
-console.log(team1);
+// console.log(team);
+// console.log(team1);
 
 
 window.players = players;
