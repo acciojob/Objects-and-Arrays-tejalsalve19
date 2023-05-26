@@ -14,11 +14,11 @@ const cap1 = {...person};
 
 // Logging the results
 
-console.log("team:", team);
-console.log("cap1:", cap1);
+console.log(team);
+console.log(cap1);
 
 window.players = players;
 window.person = person;
 window.team = team;
-window.team1 = team1;
-// window.cap1 = cap1;
+// window.team1 = team1;
+window.cap1 = cap1;
