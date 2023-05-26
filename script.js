@@ -13,9 +13,9 @@ const team1=[...players];
 const cap1 = person;
 
 // Logging the results
-
-// console.log(team1);
-// console.log(cap1);
+console.log(team);
+console.log(team1);
+console.log(cap1);
 
 window.players = players;
 window.person = person;
