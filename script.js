@@ -13,7 +13,7 @@ const team1=[...players];
 const cap1 = person;
 
 // Logging the results
-console.log(team);
+
 console.log(team1);
 console.log(cap1);
 
